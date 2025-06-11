@@ -1,1 +1,1 @@
-- [BaNoiGangster](https://raw.githubusercontent.com/lengocha89nt/book/main/BaNoiGangster_DavidWalliams.azw3)
+- [Lagom](https://raw.githubusercontent.com/lengocha89nt/book/main/Lagom.azw3)
